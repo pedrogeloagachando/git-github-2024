@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <a href="form.php">Cadastrar</a><br>
     <table>
          <thead>
         <tr>
