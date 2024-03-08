@@ -1,6 +1,6 @@
 # git-github-2024
-Meu primeiro repositório no GitHub
-meu primeiro commit
+Meu primeiro repositório no GitHub.
 
-Me chamo Pedro Fernandes Machado. Sou aluno do Iffar Uruguaiana.
+Meu primeiro commit.
 
+Me chamo Thiago Cassio Krug. Sou aluno do IFFar Uruguaiana.
